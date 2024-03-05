@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashutoshrajput2506@gmail.com**
 
-- ⚡ Why do programmers prefer using the dark mode? **Because light attracts bugs!**
+- ⚡ Why do developers prefer using the dark mode? **Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
