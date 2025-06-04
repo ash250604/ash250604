@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash250604&label=Profile%20views&color=0e75b6&style=flat" alt="ash250604" /> </p>
 
-- 🔭 I’m currently looking for an internship. **Web Development**
-
-- 🌱 I’m currently learning **Node.js, React.js, MongoDB.**
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://ash250604.github.io/](https://ash250604.github.io/)
 
